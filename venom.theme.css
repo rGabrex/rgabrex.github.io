@@ -1,14 +1,3 @@
-/**
- * @name Venom Theme
- * @author rGabrex
- * @version 1.0
- * @description Discord Theme based on Venom, highly customizable
- */
-
-/* Credits to ClearVision Team for making the original theme. */
-
- @import url(https://rgabrex.github.io/venom.theme.css);
-
 :root {
   /* Main Colors */
   --main-color: #ffffffce; /* main accent color (hex, rgb or hsl) [default: #ffffffce] */
